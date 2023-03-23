@@ -1,0 +1,23 @@
+{
+  "name": "javascript_leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1001_gridIllustration.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raghupathi1996/JavaScript_leetcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raghupathi1996/JavaScript_leetcode/issues"
+  },
+  "homepage": "https://github.com/Raghupathi1996/JavaScript_leetcode#readme",
+  "dependencies": {
+    "node": "^19.8.1"
+  }
+}
